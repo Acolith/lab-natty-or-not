@@ -14,7 +14,7 @@ Neste podcast, exploramos a poderosa combinação entre uma das linguagens de pr
 ## 🚀 Resultados
 Explore a sinergia entre Java e Inteligência Artificial neste podcast. Descubra como o Java se tornou uma ferramenta vital para desenvolver aplicativos de IA e mergulhe em exemplos práticos de seu uso na área. Se você é apaixonado por tecnologia ou desenvolvimento de software, este podcast é para você.
 
-[Eucute o PodCast](https://share.descript.com/view/OBku8Iya5a4)
+[Escute o PodCast](https://share.descript.com/view/OBku8Iya5a4)
 
 ## 💭 Reflexão
 Criar este podcast foi uma experiência que possibilitou compreender como utilizar o "ChatGPT" em e "ElevenLabs" para criação de conteúdos sonoros.
